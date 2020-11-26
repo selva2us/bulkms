@@ -35,3 +35,7 @@ body {
     }
     }
     #wrapper{ background-color: #4A4E69;}
+   .d-flex{
+        display:-ms-flexbox!important;
+        display:flex!important
+    }
